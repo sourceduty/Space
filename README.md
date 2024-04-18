@@ -1,4 +1,4 @@
-![Space](https://github.com/sourceduty/Space/assets/123030236/dcfefe8e-674f-41cf-99e4-843c30de57c4)
+![Vintage 1950s Sci-Fi Rocket](https://github.com/sourceduty/Space/assets/123030236/0b62620f-2391-416a-ac76-52cb7e4d4600)
 
 Sourceduty is positioned to explore the intersection of space and digital innovation, leveraging its expertise in generative AI to further explore and research space. Sourceduty can provide educational platforms, simulation software, and interactive experiences that enhance public engagement with space exploration and reasearch.
 
@@ -54,6 +54,11 @@ Rocket launches are coordinated with satellite companies through initial consult
 <br>
 [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
 <br>
+[Space Agencies](https://github.com/sourceduty/Space_Agencies)
+<br>
+[Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
+[Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
