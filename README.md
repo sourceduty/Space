@@ -5,10 +5,10 @@ Sourceduty is positioned to explore the intersection of space and digital innova
 #
 ### Notes
 
-![Space Junk](https://github.com/sourceduty/Space/assets/123030236/3d4591a1-813f-492b-8af5-2d3feb4d7b80)
-
 <details><summary>Space Junk</summary>
 <br>
+
+![Space Junk](https://github.com/sourceduty/Space/assets/123030236/3d4591a1-813f-492b-8af5-2d3feb4d7b80)
 
 ### Space Junk
 
