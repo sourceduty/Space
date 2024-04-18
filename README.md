@@ -183,6 +183,30 @@ Cost Estimates:
 <br>    
 </details>
 
+<details><summary>Threat and Error Management</summary>
+<br>
+
+### Threat and Error Management
+
+NASA incorporates Threat and Error Management (TEM) principles into its operations to enhance safety and mitigate risks in various aspects of spaceflight. TEM is a fundamental component of NASA's safety management system, which is applied across its human spaceflight programs, robotic missions, and other aerospace activities.
+
+NASA's use of TEM encompasses several key areas:
+
+1. Human Spaceflight: In crewed missions, such as those to the International Space Station (ISS) or future missions to the Moon and Mars, TEM principles are integrated into crew training, mission planning, and operational procedures. Astronauts are trained to identify potential threats, detect errors, and manage them effectively to ensure mission success and crew safety.
+
+2. Unmanned Spacecraft Operations: Even for unmanned missions, such as robotic exploration missions to other planets or satellites in Earth orbit, TEM principles are applied. Mission controllers and engineers monitor spacecraft systems, detect anomalies or errors, and implement corrective actions to maintain mission objectives and ensure spacecraft safety.
+
+3. Launch and Entry Operations: TEM is also relevant during launch and re-entry phases of space missions. NASA employs rigorous safety protocols and procedures to identify and mitigate potential threats to launch vehicle and crew safety. During re-entry, TEM principles help ensure the safe return of crewed spacecraft through atmospheric entry and landing phases.
+
+4. Spacecraft Design and Engineering: TEM is considered in the design and engineering of spacecraft and mission systems. Engineers anticipate potential threats and errors during the design phase and incorporate redundancies, fail-safes, and other measures to minimize their impact on mission success.
+
+5. Training and Simulation: NASA conducts extensive training and simulation exercises for astronauts, flight controllers, and other personnel involved in space missions. These exercises simulate various scenarios, including emergencies and unexpected events, to train individuals in TEM principles and prepare them to respond effectively under pressure.
+
+Overall, NASA's adoption of TEM reflects its commitment to maintaining a culture of safety and continuous improvement in space exploration endeavors. By applying TEM principles, NASA strives to identify and mitigate risks, enhance operational efficiency, and ensure the success of its missions.
+
+<br>    
+</details>
+
 ***
 ### Related Links
 
