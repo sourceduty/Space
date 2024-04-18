@@ -123,7 +123,7 @@ The Lunar Artifact Recovery Mission is a meticulously planned endeavor aimed at 
 #
 ### Dats
 
-This [dataset](https://www.kaggle.com/datasets/rajkumarpandey02/list-of-artificial-objects-on-the-moon) was used for this analysis.
+This [dataset](https://www.kaggle.com/datasets/rajkumarpandey02/list-of-artificial-objects-on-the-moon) was used for this concept misson plan.
 
 #
 ### Mission: Lunar Artifact Recovery
