@@ -188,6 +188,8 @@ Cost Estimates:
 
 ### Threat and Error Management
 
+![Lunar Raccoon](https://github.com/sourceduty/Space/assets/123030236/83c50b36-e3ac-450e-9e3a-2867cf4d5c45)
+
 NASA incorporates Threat and Error Management (TEM) principles into its operations to enhance safety and mitigate risks in various aspects of spaceflight. TEM is a fundamental component of NASA's safety management system, which is applied across its human spaceflight programs, robotic missions, and other aerospace activities.
 
 NASA's use of TEM encompasses several key areas:
