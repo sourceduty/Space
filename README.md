@@ -212,6 +212,8 @@ Overall, NASA's adoption of TEM reflects its commitment to maintaining a culture
 <details><summary>Redundant Design</summary>
 <br>
 
+![Engines](https://github.com/sourceduty/Space/assets/123030236/27ef0999-50ba-4eaf-ae59-9011b56f4e5e)
+
 Redundancy in aerospace design is critical for ensuring the reliability and safety of airplanes and rockets. This involves duplicating critical components such as engines and control systems, as well as utilizing multiple software algorithms and functional systems to achieve the same task. For instance, commercial aircraft often have multiple hydraulic systems and redundant avionics to maintain control in the event of a failure, while rockets like SpaceX's Falcon 9 are designed with engine-out capability to complete missions even if an engine fails.
 
 However, implementing redundancy brings challenges, including increased weight, complexity, and cost. Additional components and systems not only add to the overall mass of the vehicle, making it less efficient, but also introduce new potential failure points and maintenance requirements. The management of these redundant systems also requires sophisticated control technologies to ensure they do not interfere with each other and operate correctly when needed.
