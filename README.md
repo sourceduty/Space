@@ -47,14 +47,6 @@ Rocket launches are coordinated with satellite companies through initial consult
 <br>    
 </details>
 
-<details><summary>Reused Satellites</summary>
-<br>
-
-[Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
-
-<br>    
-</details>
-
 <details><summary>Spaceship Titanic</summary>
 <br>
 
@@ -315,6 +307,8 @@ By integrating technological advancements, fostering international cooperation, 
 [Alien Life](https://github.com/sourceduty/Alien_Life)
 <br>
 [Areospace Simulator](https://github.com/sourceduty/Aerospace_Simulator)
+<br>
+[Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
