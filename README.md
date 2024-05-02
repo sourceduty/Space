@@ -47,7 +47,7 @@ Rocket launches are coordinated with satellite companies through initial consult
 <br>    
 </details>
 
-<details><summary>Reused Satellite</summary>
+<details><summary>Reused Satellites</summary>
 <br>
 
 [Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
