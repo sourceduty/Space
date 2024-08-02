@@ -335,7 +335,7 @@ Once the Rocket Elevator reaches space, it can detach from the guide cable and c
 <br>
 </details>
 
-<details><summary>Let There be Artificial Sunlight Satellites</summary>
+<details><summary>Artificial Sunlight Satellites</summary>
 <br>
 
 ![Artificial Sunlight Satellite](https://github.com/user-attachments/assets/124113e6-ce1b-4206-9cce-7a8cec281149)
@@ -355,7 +355,7 @@ In the realm of science fiction and future speculation, the idea of a satellite 
 <br>
 </details>
 
-***
+#
 ### Related Links
 
 [Mars](https://github.com/sourceduty/Mars)
