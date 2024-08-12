@@ -310,7 +310,7 @@ By integrating technological advancements, fostering international cooperation, 
 
 <br>
 </details>
-<details><summary></summary>
+<details><summary>Astrophysical Simulations</summary>
 <br>
 
 ![Astrophysical Simulation](https://github.com/user-attachments/assets/6dd123e5-3661-4f0d-83c9-0a7b4a769510)
