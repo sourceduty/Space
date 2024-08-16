@@ -371,6 +371,14 @@ In the realm of science fiction and future speculation, the idea of a satellite 
 <br>
 </details>
 
+<details><summary>Radio Wave Communication</summary>
+<br>
+
+NASA isn't likely to stop using radio communication in the near future. Radio waves are fundamental to space communication due to their ability to travel vast distances and penetrate through space effectively. They are used for everything from sending commands to spacecraft to receiving data from distant missions. NASA is continually exploring and developing new technologies that could complement or enhance current communication methods. For instance, advancements in optical communication (using lasers) and other forms of electromagnetic communication might offer higher data rates and improved performance.
+
+<br>
+</details>
+
 #
 ### Related Links
 
