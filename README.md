@@ -1,4 +1,8 @@
-![Space](https://github.com/sourceduty/Space/assets/123030236/7d9e479b-8c62-468f-922e-37380ec6c450)
+![Astronaut](https://github.com/user-attachments/assets/00f55f32-0df0-466b-9478-1ae891dcdc9e)
+
+> Astrobiology, aeronautics and space related information.
+
+#
 
 Sourceduty is positioned to explore the intersection of space and digital innovation, leveraging its expertise in generative AI to further explore and research space. Sourceduty can provide educational platforms, simulation software, and interactive experiences that enhance public engagement with space exploration and research.
 
