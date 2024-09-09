@@ -1,4 +1,4 @@
-![Rocket Ride](https://github.com/user-attachments/assets/478b9659-d7de-4d96-b3ba-10844cf06f9e)
+![Rocket Rider](https://github.com/user-attachments/assets/74fd8fec-930d-492c-b097-5bd22ab73a81)
 
 > Astrobiology, aeronautics and space related information.
 
