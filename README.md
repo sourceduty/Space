@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/e43e0473-f2d2-442b-bd9f-2089f0b93f71)
+![Sourceduty](https://github.com/user-attachments/assets/8d31c57b-4a42-4aac-87cf-3d404a2a7c51)
 
 > Astrobiology, aeronautics and space related information.
 
