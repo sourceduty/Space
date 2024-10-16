@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/8d31c57b-4a42-4aac-87cf-3d404a2a7c51)
+![Astronaut Elevator](https://github.com/user-attachments/assets/5d55d3cb-26f0-4c6a-b52f-05348bf5ff46)
 
 > Astrobiology, aeronautics and space related information.
 
@@ -418,7 +418,7 @@ In the realm of science fiction and future speculation, the idea of a satellite 
 
 #
 
-![Sourceduty](https://github.com/user-attachments/assets/aea52600-7081-401f-9d54-34bc745cc45e)
+![Sci-Fi](https://github.com/user-attachments/assets/87480394-8186-4a36-9a92-8dbd4c771950)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
