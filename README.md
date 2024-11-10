@@ -1,4 +1,4 @@
-![Astronaut](https://github.com/user-attachments/assets/00f55f32-0df0-466b-9478-1ae891dcdc9e)
+![Astronaut](https://github.com/user-attachments/assets/0ee9cca4-d48f-469a-9dd5-f968f717747b)
 
 > Astrobiology, aeronautics and space related information.
 
@@ -384,7 +384,8 @@ In the realm of science fiction and future speculation, the idea of a satellite 
 </details>
 
 #
-![Space Elevators](https://github.com/user-attachments/assets/444213bc-df61-4724-b891-e3706b32d8cf)
+![Astronaut](https://github.com/user-attachments/assets/00f55f32-0df0-466b-9478-1ae891dcdc9e)
+
 #
 ### Related Links
 
