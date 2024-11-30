@@ -404,9 +404,6 @@ In the realm of science fiction and future speculation, the idea of a satellite 
 </details>
 
 #
-![Astronaut](https://github.com/user-attachments/assets/00f55f32-0df0-466b-9478-1ae891dcdc9e)
-
-#
 ### Related Links
 
 [Mars](https://github.com/sourceduty/Mars)
