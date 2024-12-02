@@ -7,7 +7,7 @@
 Sourceduty is positioned to explore the intersection of space and digital innovation, leveraging its expertise in generative AI to further explore and research space. Sourceduty can provide educational platforms, simulation software, and interactive experiences that enhance public engagement with space exploration and research.
 
 #
-### Improssible Scale
+### Impossible Scale
 
 ![Worlds](https://github.com/user-attachments/assets/7f1b8b4a-e117-4b90-b6d1-9c9e8531d3f4)
 
